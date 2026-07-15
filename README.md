@@ -106,7 +106,7 @@ sudo nmap -sV -O localhost
 nmap 192.168.1.69/24
 ```
 
-Full commands, raw output, and analysis are documented in [`report/nmap_report.md`](./Report/Nmap_report.md).
+Full commands, raw output, and analysis are documented in [nmap_report.md](./Report/Nmap_Report.md).
 
 ---
 
