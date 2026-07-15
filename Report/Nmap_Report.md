@@ -34,17 +34,6 @@ nmap 192.168.1.69/24
 **Authorization Note:**  
 This scan was conducted only on my own home network for educational purposes as part of the Vortex Tech Cyber Security Internship assignment. No unauthorized systems or third-party networks were scanned.
 
----
-
-## Scan Output
-
-### Localhost Scan
-
-![Localhost Scan](./Screenshots/image-2.png)
-
-### Home Network Scan
-
-![Network Scan](./Screenshots/image-1.png)
 
 ---
 
