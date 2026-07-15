@@ -41,13 +41,13 @@ This scan was conducted only on my own home network for educational purposes as 
 ### Localhost Scan
 
 ```
-![Localhost Scan](image-2.png)
+![Localhost Scan](./screenshots/image-2.png)
 ```
 
 ### Home Network Scan
 
 ```
-![Home Network Scan](image-1.png)
+![Home Network Scan](./screenshots/image-1.png)
 ```
 
 ---
