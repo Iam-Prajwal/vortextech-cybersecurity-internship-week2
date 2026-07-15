@@ -66,7 +66,7 @@ vortextech-cybersecurity-internship-week2/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<Iam-Prajwal>/vortextech-cybersecurity-internship-week2.git
+git clone https://github.com/Iam-Prajwal/vortextech-cybersecurity-internship-week2.git
 
 # Navigate into the project folder
 cd vortextech-cybersecurity-internship-week2
