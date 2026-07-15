@@ -14,22 +14,6 @@ A command-line Python tool was built to evaluate passwords against length requir
 **Nmap Port Scan**
 Two authorized network scans were performed: a service and OS-detection scan against a personal localhost machine, and a network sweep across a personal home network. The exercise involved identifying live hosts, open and closed ports, associated services, and documenting the security implications of what was found — along with practical recommendations to reduce exposure.
 
-## Project Components
-
-- [password_checker_report.md](./Report/Password_Checker_Report.md) — full algorithm, design, and discussion for the password checker
-- [nmap_report.md](./Report/Nmap_Report.md) — complete Nmap scan documentation, findings, and recommendations
-- [sample_outputs.md](./Report/sample_outputs.md) — real, reproducible terminal output across 8 test passwords
-
-## Screenshots
-
-**Password Strength Checker**
-
-![Password Tests](./Screenshots/image.png)
-
-**Nmap Scans**
-
-![Localhost Scan](./Screenshots/image-2.png)
-![Network Scan](./Screenshots/image-1.png)
 
 ## Key Learning Outcomes
 
