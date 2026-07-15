@@ -44,7 +44,7 @@ This scan was conducted only on my own home network for educational purposes as 
 
 ### Home Network Scan
 
-![Home Network Scan](./Screenshots/image-1.png)
+![Network Scan](./Screenshots/image-1.png)
 
 ---
 
