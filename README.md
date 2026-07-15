@@ -106,7 +106,7 @@ sudo nmap -sV -O localhost
 nmap 192.168.1.69/24
 ```
 
-Full commands, raw output, and analysis are documented in [`report/nmap_report.md`](./report/nmap_report.md).
+Full commands, raw output, and analysis are documented in [`report/nmap_report.md`](./Report/Nmap_report.md).
 
 ---
 
@@ -114,12 +114,12 @@ Full commands, raw output, and analysis are documented in [`report/nmap_report.m
 
 **Password Strength Checker**
 
-![Password Tests](./screenshots/image.png)
+![Password Tests](./Screenshots/image.png)
 
 **Nmap Scans**
 
-![Localhost Scan](./screenshots/image-2.png)
-![Network Scan](./screenshots/image-1.png)
+![Localhost Scan](./Screenshots/image-2.png)
+![Network Scan](./Screenshots/image-1.png)
 
 ---
 
@@ -127,10 +127,10 @@ Full commands, raw output, and analysis are documented in [`report/nmap_report.m
 
 Detailed write-ups for each component are available in the `report/` directory:
 
-- [Week2-Report.md](./report/Week2-Report.md) — high-level project summary and navigation page
-- [password_checker_report.md](./report/password_checker_report.md) — full algorithm, design, and discussion for the password checker
-- [nmap_report.md](./report/nmap_report.md) — complete Nmap scan documentation, findings, and recommendations
-- [sample_outputs.md](./report/sample_outputs.md) — real, reproducible terminal output across 8 test passwords
+- [Week2-Report.md](./Report/Week2-Report.md) — high-level project summary and navigation page
+- [password_checker_report.md](./Report/Password_Checker_Report.md) — full algorithm, design, and discussion for the password checker
+- [nmap_report.md](./Report/Nmap_Report.md) — complete Nmap scan documentation, findings, and recommendations
+- [sample_outputs.md](./Report/sample_outputs.md) — real, reproducible terminal output across 8 test passwords
 
 ---
 
