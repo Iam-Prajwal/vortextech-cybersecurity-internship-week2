@@ -88,11 +88,11 @@ This scoring approach was chosen over a simple pass/fail system because it gives
 
 ## Screenshots Placeholder
 
-> **![alt text](image.png)**
+![Password Tests](./Screenshots/image.png)
 
 ## Example Outputs
 
-The full set of 8 tested passwords and their real, program-generated output is documented separately in [`sample_outputs.md`](./sample_outputs.md). A condensed summary:
+The full set of 8 tested passwords and their real, program-generated output is documented separately in [sample_outputs.md](./Report/sample_outputs.md). A condensed summary:
 
 | Password (masked) | Strength Rating | Score |
 |---|---|---|
