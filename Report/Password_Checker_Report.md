@@ -86,7 +86,7 @@ This scoring approach was chosen over a simple pass/fail system because it gives
 | **String formatting (f-strings)** | Used for clean, readable terminal output |
 | **Separation of concerns** | Logic (`evaluate_password`), scoring (`score_to_strength`), and display (`display_result`) are kept in distinct functions rather than one large script |
 
-## Screenshots Placeholder
+## Screenshots
 
 ![Password Tests](./Screenshots/image.png)
 
