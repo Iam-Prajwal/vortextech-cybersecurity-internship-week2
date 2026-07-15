@@ -16,20 +16,20 @@ Two authorized network scans were performed: a service and OS-detection scan aga
 
 ## Project Components
 
-- [`password_checker_report.md`](./Password_Checker_Report.md) — full design, algorithm, and discussion of the password strength checker
-- [`nmap_report.md`](./Nmap_Report.md) — complete scan commands, output, findings, and recommendations from the network reconnaissance exercise
-- [`sample_outputs.md`](./sample_outputs.md) — real, reproducible terminal output from 8 test passwords covering all strength tiers
+- [password_checker_report.md](./Report/Password_Checker_Report.md) — full algorithm, design, and discussion for the password checker
+- [nmap_report.md](./Report/Nmap_Report.md) — complete Nmap scan documentation, findings, and recommendations
+- [sample_outputs.md](./Report/sample_outputs.md) — real, reproducible terminal output across 8 test passwords
 
 ## Screenshots
 
 **Password Strength Checker**
 
-[Password Tests](../screenshots/image.png)
+![Password Tests](./Screenshots/image.png)
 
 **Nmap Scans**
 
-[Localhost Scan](../screenshots/image-2.png)
-[Network Scan](../screenshots/image-1.png)
+![Localhost Scan](./Screenshots/image-2.png)
+![Network Scan](./Screenshots/image-1.png)
 
 ## Key Learning Outcomes
 
